@@ -1,0 +1,2 @@
+C:\Users\Alperen\source\repos\scientific_calculator\Debug\scientific_calculator.exe
+C:\Users\Alperen\source\repos\scientific_calculator\Debug\scientific_calculator.pdb
